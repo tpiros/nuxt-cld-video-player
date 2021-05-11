@@ -13,7 +13,7 @@
   "dependencies": {
     "cloudinary-core": "^2.10.3",
     "cloudinary-video-player": "^1.4.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "nuxt": "^2.0.0",
     "vue-meta": "^2.4.0"
   },
